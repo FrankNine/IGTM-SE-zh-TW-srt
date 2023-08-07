@@ -1,0 +1,228 @@
+1
+00:00:00,000 --> 00:00:25,000
+We are in TigJam Winnipeg. We are here with like 20, 30 other game developers.
+
+2
+00:00:25,000 --> 00:00:30,000
+TigJam is the independent game jam. It's kind of formed out of the TigSource online community.
+
+3
+00:00:30,000 --> 00:00:32,000
+Everybody's making amazing things.
+
+4
+00:00:32,000 --> 00:00:36,000
+Basically everyone just brings a laptop, works on whatever they feel like working on,
+
+5
+00:00:36,000 --> 00:00:40,000
+whether it's like a new project or something they've been working on for a long time.
+
+6
+00:00:40,000 --> 00:00:46,000
+You push all that other stuff out and for two days you work really, really hard to usually make a new thing
+
+7
+00:00:46,000 --> 00:00:52,000
+that somehow you either needed an excuse to make or you had no idea you were going to make in the first place,
+
+8
+00:00:52,000 --> 00:00:54,000
+but it sort of captured your imagination.
+
+9
+00:00:54,000 --> 00:00:59,000
+At the jam, my jam game started out as like four different games.
+
+10
+00:00:59,000 --> 00:01:02,000
+Today I've been working on a thing that has no name yet.
+
+11
+00:01:02,000 --> 00:01:04,000
+I coded this like circular room.
+
+12
+00:01:04,000 --> 00:01:06,000
+You are a guy with a jet pack.
+
+13
+00:01:06,000 --> 00:01:08,000
+Okay, the guy will have like a sword thing.
+
+14
+00:01:08,000 --> 00:01:09,000
+And you fly around.
+
+15
+00:01:09,000 --> 00:01:12,000
+You'll be able to swing this sword thing around.
+
+16
+00:01:12,000 --> 00:01:13,000
+And shoot things.
+
+17
+00:01:13,000 --> 00:01:16,000
+And it gets thinner as it's longer, that kind of thing.
+
+18
+00:01:16,000 --> 00:01:21,000
+And then you can land and dash at stuff.
+
+19
+00:01:21,000 --> 00:01:24,000
+It evolved into this cool project with suggestions from all these different people
+
+20
+00:01:24,000 --> 00:01:28,000
+where I'm actually trying out a cool mechanic and trying out a cool intuitive way of moving,
+
+21
+00:01:28,000 --> 00:01:29,000
+that kind of thing.
+
+22
+00:01:29,000 --> 00:01:32,000
+It's a lot of different things that haven't quite come together yet.
+
+23
+00:01:32,000 --> 00:01:33,000
+I made a little skier game.
+
+24
+00:01:33,000 --> 00:01:37,000
+I want to make a game that's like a ragdoll track and field kind of game.
+
+25
+00:01:37,000 --> 00:01:40,000
+So you're kind of this little skier ragdoll puppet guy.
+
+26
+00:01:40,000 --> 00:01:41,000
+And if you move the mouse up, he moves up.
+
+27
+00:01:41,000 --> 00:01:43,000
+If you move the mouse down, he moves down.
+
+28
+00:01:43,000 --> 00:01:46,000
+And then you can kind of move the mouse around to control him.
+
+29
+00:01:46,000 --> 00:01:48,000
+And it flips and move up.
+
+30
+00:01:48,000 --> 00:01:50,000
+So I started this yesterday.
+
+31
+00:01:50,000 --> 00:01:52,000
+It's reasonably playable for what it is.
+
+32
+00:01:52,000 --> 00:01:55,000
+So rather than mash buttons really hard and really fast to do stuff,
+
+33
+00:01:55,000 --> 00:01:58,000
+you kind of puppeteer these little ragdoll characters.
+
+34
+00:01:58,000 --> 00:02:00,000
+There's this game called QWOP that did this.
+
+35
+00:02:00,000 --> 00:02:02,000
+But QWOP made something easy really difficult.
+
+36
+00:02:02,000 --> 00:02:04,000
+And I want to make things that are difficult really easy.
+
+37
+00:02:04,000 --> 00:02:07,000
+Like it's really hard to go skiing and do a double front flip.
+
+38
+00:02:07,000 --> 00:02:09,000
+But it's pretty easy to do it in a game.
+
+39
+00:02:09,000 --> 00:02:11,000
+And that's kind of where the fun is.
+
+40
+00:02:11,000 --> 00:02:14,000
+So I think that's the better approach.
+
+41
+00:02:14,000 --> 00:02:16,000
+I wanted to prototype some ideas for that.
+
+42
+00:02:16,000 --> 00:02:19,000
+You learn a ton just by hanging out in this kind of environment
+
+43
+00:02:19,000 --> 00:02:22,000
+because people are just viewing useful information about game making all the time.
+
+44
+00:02:22,000 --> 00:02:26,000
+Well, you get this sort of exchange of ideas that you don't necessarily...
+
+45
+00:02:26,000 --> 00:02:30,000
+It's a lot more raw in your person than just reading things on forums.
+
+46
+00:02:30,000 --> 00:02:32,000
+It changes how you develop games.
+
+47
+00:02:32,000 --> 00:02:34,000
+It turns them into this social thing,
+
+48
+00:02:34,000 --> 00:02:36,000
+this thing where you share your ideas openly with people.
+
+49
+00:02:36,000 --> 00:02:39,000
+I think it's supposed to remind us that, yeah, you can do whatever you want for two days.
+
+50
+00:02:39,000 --> 00:02:41,000
+Like that's the goal of it is just to do whatever you want
+
+51
+00:02:41,000 --> 00:02:44,000
+as opposed to, oh, I have to get this next feature set for this next milestone,
+
+52
+00:02:44,000 --> 00:02:47,000
+for this next funding payment or whatever it is.
+
+53
+00:02:47,000 --> 00:02:49,000
+I know it's a great opportunity to bring everybody together
+
+54
+00:02:49,000 --> 00:02:51,000
+because we're all spread out all over the world.
+
+55
+00:02:51,000 --> 00:02:54,000
+It's great to be in the same place and meet up with everybody again.
+
+56
+00:02:54,000 --> 00:02:58,000
+It's amazing to be in a room with people doing wonderful things.
+
+57
+00:03:17,000 --> 00:03:20,000
+www.mooji.org
+
