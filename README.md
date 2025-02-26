@@ -3,7 +3,7 @@
 ## Indie Game: The Movie Special Edition 購買連結
 - [官方網站](https://buy.indiegamethemovie.com/)
 - [Steam](https://store.steampowered.com/app/207090)
-- [GOG](https://www.gog.com/en/movie/indie_game_the_movie_special_edition)
+- ~~[GOG](https://www.gog.com/en/movie/indie_game_the_movie_special_edition)~~（GOG 於 2025 1/27 停售影片）
 
 字幕檔案名稱以 GOG 版本為準
 
